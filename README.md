@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Software Engineer from Chicago</h3>
 
-- 🔭 I’m currently working on [Voyager's Handbook](https://github.com/airjet00/FinalProject)
+- 🔭 I’m currently working on [personal website/blog] <--(https://github.com/airjet00/FinalProject)-->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [...](...)
 
