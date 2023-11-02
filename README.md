@@ -1,7 +1,9 @@
 <h1 align="center">👋 I'm Erik</h1>
-<h3 align="center">Software Engineer and Military Veteran</h3>
+<h3 align="center">Software Developer and Military Veteran</h3>
 
-- 🏗️ I’m currently working on **personal website/blog** <!--(https://github.com/airjet00/FinalProject)-->
+- 🏗️ I’m currently working for the federal government as a Java Full-Stack Developer
+
+- ⚒ Side project I'm developing is my **personal website/blog** <!--(https://github.com/airjet00/FinalProject)-->
 
 - 📚 I’m currently learning **C++**
 
@@ -9,7 +11,7 @@
 
 - 🖋️ I regularly write articles on [...](...) -->
 
-- 🧰 Ask me about **Java, C++, my bootcamp experience, or any of my projects**
+- 🧰 Ask me about **Java, my bootcamp experience, or any of my projects**
 
 - 📫 How to reach me **erikskell@gmail.com**
 
