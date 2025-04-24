@@ -1,5 +1,7 @@
-<h1 align="center">👋 I'm Erik</h1>
-<h3 align="center">Software Developer and Military Veteran</h3>
+<h1 align="center">👋 Welcome, I'm Erik</h1>
+<h3 align="center">Military Veteran | Java Developer | Full-Stack Engineer </h3>
+
+I'm a U.S. Navy and Army veteran and currently a Java Software Developer with the IRS, looking to transition into the private sector. I bring 15+ years of leadership, technical maintenance, and problem-solving experience—and now I’m channeling that same discipline into software development. Over the past two years, I’ve built secure, full-stack Java applications for enterprise systems within an agile government environment.
 
 - 🏗️ I’m currently working for the federal government as a Java Full-Stack Developer
 
